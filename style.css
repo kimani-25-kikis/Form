@@ -95,3 +95,8 @@ textarea {
 .submit-btn:hover {
   background: #00694f;
 }
+.form-group-checkbox{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
